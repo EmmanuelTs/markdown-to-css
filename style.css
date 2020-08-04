@@ -1,0 +1,20 @@
+body {background: #FFFFF0;
+    font-family: "monospace", cursive, serif;
+    position: relative;
+color: black;
+margin: auto;
+text-align: center}
+
+#picture {border-style: solid }
+#table { margin-left: auto;
+margin-right: auto;
+border: 1px solid black;
+background: white}
+ul {
+    text-align: center;
+    list-style: inside;
+}
+#head2 {background: white}
+
+#head3 {background:white}
+#head4 {background:white}
